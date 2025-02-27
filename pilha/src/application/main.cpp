@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
-#include "TADPilha.h"
+#include ".entities/TADPilha.h"
 
 
 void executar();
